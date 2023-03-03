@@ -10,4 +10,3 @@ The customer should specify the count of letters, symbols and numbers they want 
 
 ## Objectives
 The program takes takes the number of letters, symbols and numbers that the employees want their password to have, and then generates a password.
-
